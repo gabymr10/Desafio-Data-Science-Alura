@@ -84,12 +84,8 @@ Tras integrar y ponderar todos los indicadores, el análisis concluye que la Tie
 # 🚀 Cómo ejecutar el análisis
 
 1. Clona el repositorio:
-   
-    git clone https://github.com/usuario/Proyecto_AluraStore.git
-   
-    cd Proyecto_AluraStore
-   
-    Abre el archivo AluraStoreLatam_gaby.ipynb en Google Colab o Jupyter Notebook.
+
+    Abre el archivo AluraStoreLatam.ipynb en Google Colab o Jupyter Notebook.
    
     Ejecuta todas las celdas para generar los cálculos y visualizaciones.
    
